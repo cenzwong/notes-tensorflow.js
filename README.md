@@ -8,6 +8,6 @@ Tensorflow is developped by Google
 Originally got deeplearn.js --> tensorflow.js using webGL
 
 
-+ Highest         ML5
-+ Middle           Keras (Layers API of tensorflow)
-+ Low             Tensorflow(Core) theano pytorch
++ Highest --> ML5
++ Middle    -->        Keras (Layers API of tensorflow)
++ Low     -->         Tensorflow(Core) theano pytorch
